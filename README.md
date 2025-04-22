@@ -12,8 +12,10 @@ This project implements a data analytics pipeline for a simulated food business 
 - **Interactive Dashboard**: Creates Plotly charts showing sales trends for the top 5 items and current inventory levels, rendered interactively in a browser.
 
 The code is designed for easy execution in Google Colab or a local Jupyter environment, producing reproducible outputs for data-driven inventory management.
+
 The simulated plots for (`eda_sales_trends.png`) & `forecast_rasgulla.png`:
 ![image](https://github.com/user-attachments/assets/c835778c-11b8-4b56-ae02-04a33be29071)
+![image](https://github.com/user-attachments/assets/b3d9154d-59dc-4982-b785-97179d8c51af)
 
 
 ## Setup
